@@ -1,0 +1,7 @@
+#include <QCoreApplication>
+#include <iostream>
+#include <QString>
+#include <QFile>
+#include <QDir>
+#include "core.h"
+
